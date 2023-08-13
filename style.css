@@ -1,0 +1,519 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+
+    margin: 0%;
+    padding: 0%;
+   overflow-x: hidden;
+   
+}
+ /* first part css*/
+
+
+.root{
+
+    background-image: url( header-slider-img-01.jpg);
+    color: white;
+}
+
+.header{
+display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 20px;
+    font-weight: 900;
+    color: white;
+    padding-right: 40px;
+
+
+
+}
+
+.first-icon{
+
+   display: flex;
+   padding-left: 100px;
+
+}
+
+.sec-icon{
+    display: flex;
+   padding-right: 50px;
+}
+
+.image-container{
+width: 10%;
+padding-top: 1%;
+padding-left: 40%;
+height: 10%;
+
+}
+
+.image-container img{
+width: 150%;
+height: 10%;
+
+}
+
+.header-text{
+    text-align: center;
+ 
+}
+
+.header-text h2{
+
+    font-size:100px;
+    padding-right: 4.5%;
+}
+.header-text p{
+    padding-right: 4.5%;
+  padding-bottom: 2%;
+
+}
+ 
+.container{
+
+display: flex;
+justify-content: center;
+justify-content: space-evenly;
+background-color: rgb(49, 45, 45);
+margin-left: 20%;
+margin-right: 20%;
+
+}
+
+.f-item{
+
+padding-top: 2%;
+padding-bottom: 2%;
+
+
+}
+
+
+.st-para{
+
+    text-align: center;
+    font-size: 40px;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: 'Roboto';
+    padding-top: 2%;
+   
+}
+
+.coustom-btn{
+
+justify-content: center;
+justify-content: space-evenly;
+border: 2px solid white;
+padding-top: 0.5%;
+width: 12%;
+font-size: 20px;
+background: transparent;
+color: white;
+padding: auto;
+cursor: pointer;
+
+}
+ /* my 2nd part css */
+.nd-sec-text{ 
+    text-align: center;
+    margin-top: 2%;
+    color: rgb(79, 79, 129);
+   
+}
+
+.nd-thr-text{
+    text-align: center;
+    padding-right: 3%;
+    padding-left:5%  ;
+    
+}
+
+.nd-imgs{
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+
+.nd-imgs-txt{
+   display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-top: 2%; 
+    color:	rgb(0,191,255);
+    font-weight: 600;
+}
+ 
+.nd-imgs-txt-two{
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-left: 25.5%;
+    color: 	rgb(0,191,255);
+}
+.nd-p-sec{
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 18%;
+    padding-right: 14%;
+    text-decoration-line: underline;
+    cursor: pointer;
+   
+}
+
+/* my 3rd part css */
+.third-page{
+
+background-color: black;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 2%;
+  
+   
+   
+}
+
+.pic-head{
+padding-left: 20%;
+padding-right: 20%;
+text-align: center;
+
+}
+
+.pic-para{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    color:	rgb(0,191,255);
+}
+
+    .lines{
+        border: 2px solid white;
+        margin-left: 9%;
+        margin-right: 7%;
+        
+        
+    }
+
+    .after-hori{
+
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .form-custom{
+
+        display: flex;
+        justify-content: center;
+        justify-content: space-between;
+
+        padding-left: 9%;
+        padding-right: 7%;
+     
+       
+        
+    }
+
+    .st-form-txt{
+
+        border: 10px solid gray; 
+    }
+
+    .nd-form-txt{
+        border: 10px solid gray;
+    }
+
+    .rd-form-txt{
+        border: 10px solid gray;
+    }
+
+    .rth-form-txt{
+        border: 10px solid gray;
+    }
+
+    .fif-form-txt{
+
+        border: 10px solid gray;
+    }
+
+.btn-cstm{
+
+   
+    padding-left: 40%;
+    padding-right: 40%;
+    margin-left: 9%;
+    margin-right: 9%;
+    margin-top: 1%;
+    background-color: 	rgb(50, 159, 202);
+    color:whitesmoke;
+    cursor: pointer;
+    overflow: hidden;
+}
+       
+    /* FROM HERE I START 4TH PART*/
+
+    .page-num-4{
+
+        background-image: url(bg-section-about-us.jpg);
+        color: white;
+        padding-bottom: 5%;
+    }
+
+    .four-part-head{
+
+        
+        justify-content: center;
+        padding-top: 7%;
+        padding-left: 35%;
+        padding-right: 5%;
+        font-size: 20px;
+        
+    }
+
+    .four-part-para{
+
+        justify-content: center;
+        padding-top: 3%;
+        padding-left: 35%;
+        padding-right: 30%;
+        padding-bottom: 3%;
+    }
+
+ 
+.part-f-btn{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+border: 2px solid white;
+margin-left: 45%;
+margin-right: 45%;
+background: transparent;
+color: white;
+padding: auto;
+
+
+
+}
+
+.custm-btn-pfor{
+margin-top: 1%;
+margin-bottom: 1%;
+background: transparent;
+color: white;
+cursor: pointer;
+
+}
+
+/* here i start part 5 */
+
+.part-five-str{
+
+    background-color: 	rgb(50, 159, 202);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    display: flex;
+    justify-content: center;
+    
+  
+}
+.vid-cstm{
+    border: 10px solid rgb(2, 62, 116);
+    background: transparent;
+}
+
+/* here i start my part 6 */
+
+
+.p-six{
+    background-color: lightblue;
+    padding-top: 1%;
+    display: flex;
+   justify-content: center;
+    justify-content: space-evenly;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 1%;
+}
+
+.p-six h3{
+    color: rgb(69, 66, 66);
+}
+
+.p-six-email{
+    width: 30%;
+    height: fit-content;
+    background-color: #ffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.p-email-cstm{
+    outline: none;
+    border: none;
+    padding-left: 5px;
+    padding-right: 2px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+
+.six-btn{
+    width: 7%;
+    height: fit-content;
+    background-color: transparent;
+    display: flex;
+   justify-content: center;
+    margin-right: 15%;
+   
+    
+
+}
+.custm-six-btn{
+    outline: none;
+    border: none;
+    padding-left: 10px;
+    padding-right: 11px;
+    padding-top: 10px;
+    padding-bottom: 2px;
+   background-color: rgb(17, 156, 255);
+   color: white;
+   cursor: pointer;
+} 
+
+/* here i start my P7 */
+
+.sec-end-p-sev{
+
+    background-color: rgb(62, 96, 123);
+    display: flex;
+    justify-content: space-between;
+  overflow: hidden;
+  
+    
+}
+
+.sec-end-head{
+   color:white;
+    padding-left: 6%;
+    padding-top: 4%;
+   padding-bottom: 3%;
+   text-align: center;
+    
+    
+}
+
+
+.cstm-btn-sec-end{
+
+    padding-top: 2%;
+    padding-bottom:2%;
+    padding-right: 1%;
+    padding-left: 1%;
+    color: whitesmoke;
+    background-color: rgb(52, 169, 253);
+    margin-top: 3%;
+    margin-left: 15%;
+    cursor: pointer;
+}
+.map-img{
+    background-image: url(map.jpg);
+   width: 55%;
+    background-repeat: no-repeat;
+    margin-left: 20%;
+}
+
+.thr-set-p-sev{
+    padding-top: 4%;
+    padding-bottom: 3%;
+     padding-left: 30%;
+     
+}
+
+
+.cstm-thr-end{
+  margin-top: 3%;
+  margin-left: 1%;
+  padding-top: 1%;
+  padding-right: 2%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+  color: whitesmoke;
+  background-color: rgb(52, 169, 253);
+  cursor: pointer;
+}
+
+/* here is strat my last part */
+.last-img{
+
+    background-image: url(wave-blue-light.png);
+    height: 150px;
+    background-color: 	rgb(50, 159, 202);
+    display: flex;
+   justify-content: center;
+   justify-content: space-between;
+   color: whitesmoke;
+   
+}
+
+.write-head-para{
+    padding-top: 5%;
+    padding-right: 15%;
+    padding-left: 4%;
+}
+.write-head-para{
+font-style: italic;
+}
+
+.write-head-para p{
+    font-size: x-small;
+}
+
+.put-img img{
+width: 10%;
+padding-top: 40%;
+float: right 5%;
+ 
+}
+.icons-last{
+    padding-top: 7%;
+    display: flex;
+    
+  
+}
+.first-icon-last{
+    
+       display: flex;
+       padding-left: 100px;
+    
+    }
+    
+    .sec-icon-last{
+        display: flex;
+       padding-right: 50px;
+    }
+    
+    .last-para-set{
+
+        padding-top: 7%;
+        padding-right: 2%;
+    }
+
+
+    
+/* OK THATS ALL*/
